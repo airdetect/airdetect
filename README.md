@@ -2,7 +2,7 @@
 - 👀 I’m interested in ride
 - 🌱 I’m currently learning LoRa
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my instergram @soigyunyu
+- 📫 How to reach me my instergram @soigyuunyuu
 
 <!---
 airdetect/airdetect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
